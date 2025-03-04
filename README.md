@@ -28,8 +28,8 @@ Ensure you have the **Java Development Kit (JDK)** installed on your system.
 ### Installation & Execution
 1. **Clone the Repository:**
    ```sh
-   git clone https://github.com/rams-v/OS-Calculator.git
-   cd calculator-java
+   git clone https://github.com/rams-v/OST-Calculator.git
+   cd OST-Calculator
    ```
 2. **Compile the Java Files:**
    ```sh
